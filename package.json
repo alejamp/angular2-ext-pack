@@ -1,0 +1,21 @@
+{
+    "name": "angular2-ext-pack",
+    "displayName": "Angular 2 Extension Pack",
+    "description": "Collection of Angular 2 Extensions",
+    "version": "0.0.1",
+    "publisher": "AlejandroPirola",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "CoenraadS.bracket-pair-colorizer", 
+        "christian-kohler.path-intellisense", 
+        "eg2.tslint", 
+        "infinity1207.angular2-switcher", 
+        "rbbit.typescript-hero", 
+        "robertohuertasm.vscode-icons"
+    ]
+}
